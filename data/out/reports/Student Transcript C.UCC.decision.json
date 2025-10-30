@@ -1,0 +1,8 @@
+{
+  "progression_stage1_to_2": "YES",
+  "progression_stage2_to_3": "NO",
+  "award": "No award yet (insufficient credits)",
+  "explanation": "Academic English Skills: PASS by transcript code (P).\nMathematical Foundations: PASS by transcript code (P).\nProgramming Principles and Algorithms: PASS by transcript code (P).\nProgramming Methodology and Design: PASS by transcript code (P).\nIntroduction to Web Technologies: PASS by transcript code (P).\nComputer Systems Architecture: PASS by transcript code (P).\nLogic and Automata: PASS by transcript code (P).\nIntroduction to Object-Orientation: PASS by transcript code (P).\nObject-Oriented Programming: PASS by transcript code (P).\nNetwork Architectures: PASS by transcript code (PC).\nSystems Analysis and Design: PASS by transcript code (P).\nDatabase Systems: PASS by transcript code (P).\nUCC compensation check Stage 1: failed_credits=10, outright=True\nUCC compensation check Stage 2: failed_credits=0, outright=False\nUCC Stage 2 mean (rounded)=0\nUCC Stage 1 reassess limit: 0<= 80?\nUCC Stage 2 reassess limit: 50<= 60?\nUCC Stage 3 reassess limit: 0<= 60?\nUCC compensation check Stage 1: failed_credits=10, outright=True\nUCC compensation check Stage 2: failed_credits=0, outright=False\nUCC Stage 2 mean (rounded)=0\nUCC Stage 1 progression credits 120/120\nUCC Stage 2 progression credits 0/120\nUCC Stage 3 credits awarded 0/120 (override_all_awarded=None)\nOrdinary check: Stage 3 H credits = 0",
+  "_input_csv": "Student Transcript C.csv",
+  "_program": "UCC"
+}
